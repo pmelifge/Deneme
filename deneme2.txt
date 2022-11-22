@@ -1,4 +1,5 @@
 git github ikinci gun ilk deneme
 git github ikinci gun ikinci  deneme
 git github ikinci gun elif branch  deneme
-git github ikinci gun elif master  deneme
+
+git github ikinci gun elif evren  deneme
