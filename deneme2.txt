@@ -3,3 +3,6 @@ git github ikinci gun ikinci  deneme
 git github ikinci gun elif branch  deneme
 
 git github ikinci gun elif evren  deneme
+denem5
+deneme6 
+deneme7
